@@ -1,0 +1,21 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[3]!./app/forms/forms.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************/
+.forms_main__VYW1j {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6rem;
+    min-height: 100vh;
+  }
+
+  .forms_header__jwCVX {
+    margin-bottom: 20px;
+  }
+
+  .forms_input__p3rPm {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+  }

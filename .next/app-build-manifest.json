@@ -9,8 +9,14 @@
     "/fundamentals/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/fundamentals/page.js",
-      "static/css/app/fundamentals/page.css"
+      "static/css/app/fundamentals/page.css",
+      "static/chunks/app/fundamentals/page.js"
+    ],
+    "/forms/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/forms/page.css",
+      "static/chunks/app/forms/page.js"
     ]
   }
 }
