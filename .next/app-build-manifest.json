@@ -6,17 +6,11 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/fundamentals/page": [
+    "/examples/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/fundamentals/page.css",
-      "static/chunks/app/fundamentals/page.js"
-    ],
-    "/forms/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/forms/page.css",
-      "static/chunks/app/forms/page.js"
+      "static/css/app/examples/page.css",
+      "static/chunks/app/examples/page.js"
     ]
   }
 }
